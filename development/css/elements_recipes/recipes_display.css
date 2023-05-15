@@ -1,0 +1,14 @@
+#recipes .display {
+  background-color: red;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  #recipes .display .display_left {
+    background-color: blue;
+    width: 50%;
+    height: 50px; }
+  #recipes .display .display_right {
+    background-color: gold; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImVsZW1lbnRzX3JlY2lwZXMvcmVjaXBlc19kaXNwbGF5LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHFCQUFxQjtFQUNyQixXQUFXO0VBQ1gsb0JBQWE7RUFBYixvQkFBYTtFQUFiLGFBQWEsRUFBRTtFQUNmO0lBQ0Usc0JBQXNCO0lBQ3RCLFVBQVU7SUFDVixZQUFZLEVBQUU7RUFDaEI7SUFDRSxzQkFBc0IsRUFBRSIsImZpbGUiOiJlbGVtZW50c19yZWNpcGVzL3JlY2lwZXNfZGlzcGxheS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjcmVjaXBlcyAuZGlzcGxheSB7XG4gIGJhY2tncm91bmQtY29sb3I6IHJlZDtcbiAgd2lkdGg6IDEwMCU7XG4gIGRpc3BsYXk6IGZsZXg7IH1cbiAgI3JlY2lwZXMgLmRpc3BsYXkgLmRpc3BsYXlfbGVmdCB7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogYmx1ZTtcbiAgICB3aWR0aDogNTAlO1xuICAgIGhlaWdodDogNTBweDsgfVxuICAjcmVjaXBlcyAuZGlzcGxheSAuZGlzcGxheV9yaWdodCB7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogZ29sZDsgfVxuIl19 */
