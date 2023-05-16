@@ -2,7 +2,8 @@
 
 # ScrumLab
 
-https://zaplanujjedzonko.netlify.app/ 
+ 
+<a href='https://zaplanujjedzonko.netlify.app/' target="_blank"> Zobacz - zaplanujjedzonko </a>
 
 Projekt, którego celem jest nauczenie Cię pracy w zespole programistów.  Symuluje on realne zadania
 w projekcie aplikacji webowej. 
