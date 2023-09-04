@@ -1,24 +1,13 @@
-
-
-# ScrumLab
-
- 
-<a href='https://zaplanujjedzonko.netlify.app/' target="blank" > Zobacz - zaplanujjedzonko </a>
-
-Projekt, którego celem jest nauczenie Cię pracy w zespole programistów.  Symuluje on realne zadania
-w projekcie aplikacji webowej. 
-Praca w grupie na kursie programowania w CodersLab
-
-## Jak zainstalować wszystkie potrzebne biblioteki?
-Żeby zacząć pracować z ScrumLab musisz:
-* `npm install` - zainstalować wszystkie potrzebne paczki
-
-## Gulp
-Poniżej możesz znaleźć wszystkie komendy Gulp, które są dla Ciebie dostępne:
-* `gulp` lub `gulp serve`  - uruchomi GULP w trybie `watchmode`. Oznacza to, że zostanie uruchomiona strona `localhost` która będzie odświeżana za każdym razem, gdy zmienisz jakikolwiek plik `scss`, `js` lub `html`.
-* `gulp watch` - uruchamia GULP w trybie nadzoru, będzie kompilować `main.scss` w `css/main.css`
-* `gulp sass` - Kompiluje SASS do CSS
-
+# Zaplanuj jedzonko
+&#9755;  <a href='https://zaplanujjedzonko.netlify.app/' target="blank" > Zobacz - zaplanujjedzonko </a><br><br>
+"zaplanujjedzonko" To strona pozwalająca na zaplanowanie jadłospisu.<br>  
+# Instalacja
+ - `git clone https://github.com/TomaszUrbankiewicz/zaplanujjedzonko.git` <br>
+ - `npm install`
+ - `npm start`
+ - `npm run build`
+# Główne cechy strony:
+1. Projekt prowadzony w ScrumLab
 ## Struktura katalogów
 ```
 | - development/
@@ -35,4 +24,7 @@ Poniżej możesz znaleźć wszystkie komendy Gulp, które są dla Ciebie dostęp
 | - package.json
 | - gulpfile.js
 ```
+# Użycie
+Projekt, którego celem jest nauczenie się pracy w zespole programistów. <br> 
+Symuluje on realne zadaniaw projekcie aplikacji webowej. Praca w grupie na kursie programowania w CodersLab.
 
